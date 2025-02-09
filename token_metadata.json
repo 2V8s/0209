@@ -1,0 +1,10 @@
+{
+    "name": "SaltyCoffee",
+    "symbol": "SALTYCOFFEE",
+    "description": "Utility coin for stockscan.io website",
+    "image": "https://github.com/2V8s/0209/blob/b507dd89aafda40416b67e4162077a5075d26a15/icon.png",
+    "extensions": {
+      "website": "https://stockscan.io",
+      "twitter": "https://x.com/stockscan_io"
+    }
+  }
